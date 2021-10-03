@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pb1305
-- 👀 I’m interested in all things Data Science
+- 👀 I’m interested in all things Business Intelligence and Data Science
 - 🌱 I’m currently learning how to leverage Python and R to create Supervised and Unsupervised learning algorithms
 
 <!---
