@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pb1305
+- 👋 Hi, I’m Paromita Barua
 - 👀 I’m interested in all things Data
 - 🌱 I’m currently learning how to leverage different tools/languages to explore the world of data
 
